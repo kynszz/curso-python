@@ -1,10 +1,17 @@
 # Curso Python II
-repositorio do curso
-Desenvolver aplicações web com Pythons web com Python 2022 do senac americana 
+Repositorio do Curso
+Desenvolver aplicações web com Pythons web com Python 2022 do senac Americana 
 
 ---
 
-## conteudo
+## Conteudo
 - Versionamento
 - HTML
 - Banco de Dados
+
+***
+## Bloco de Codigo
+```python
+print("informaçoes")
+nome = input("qual e o seu nome")
+```
