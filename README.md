@@ -17,7 +17,7 @@ nome = input("qual e o seu nome")
 ```
 
 ---
-#tabelas 
+# TABELAS
 |Linguagem|Plataforma|
 |---|---|
 |C#|Web, Desktop, Mobile
