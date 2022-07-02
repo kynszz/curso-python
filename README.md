@@ -29,3 +29,6 @@ nome = input("qual e o seu nome")
 - *Italico*
 - **Negrito**
 - ***Negrito e Italico***
+---
+# Imagem
+![Logo do Python](Python.png)
